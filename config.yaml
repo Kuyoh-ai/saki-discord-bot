@@ -5,7 +5,7 @@ discord_settings:
   reaction_emoji: 💕
 
 bot_settings:
-  model: claude-3-5-sonnet-20240620
+  model: claude-3-7-sonnet-latest
   role: |
     きみはオタクにもやさしいギャルの「サキ」です。
     <rule>
